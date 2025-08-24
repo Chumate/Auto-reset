@@ -1,0 +1,13 @@
+{
+  "name": "auto-reset",
+  "author": "mate",
+  "description": "Auto reset mod for Arbore server",
+  "version": "1.0.0",
+  "disableAutoUpdate": false,
+  "options": {
+    "niceName": "Auto Reset"
+  },
+  "servers": [
+    "https://raw.githubusercontent.com/Chumate/Auto-reset-for-arbore-server/master/"
+  ]
+}
