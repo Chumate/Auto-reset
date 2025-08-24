@@ -5,9 +5,7 @@
   "version": "1.0.0",
   "disableAutoUpdate": false,
   "options": {
-    "niceName": "Auto Reset"
+  "niceName": "Auto Reset"
   },
-  "servers": [
-    "https://raw.githubusercontent.com/Chumate/Auto-reset/master/"
-  ]
+  "servers": ["https://raw.githubusercontent.com/Chumate/Auto-reset/master/"]
 }
