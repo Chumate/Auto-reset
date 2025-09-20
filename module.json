@@ -7,5 +7,5 @@
   "options": {
   "niceName": "Auto Reset"
   },
-  "servers": ["https://raw.githubusercontent.com/Chumate/Auto-reset/master/manifest.json"]
+  "servers": ["https://raw.githubusercontent.com/Chumate/Auto-reset/master/"]
 }
